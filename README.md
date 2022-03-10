@@ -1,5 +1,5 @@
 <!-- Entitled User -->
-<h2 aligh="left">ZEROPOINT</h3>
+<h2 aligh="left">ZEROPOINT</h2>
 <h4 align="left">Your local Database Analyst specializing in</h4>
 <div align="left">
     <a href="https://www.mysql.com"><img
@@ -11,7 +11,7 @@
 </div>
 
 <!-- About me -->
-<h3 align="left">About me</h2>
+<h2 align="left">About me</h2>
 
 <!-- Entitled User -->
 <h1 align="center">ZEROPOINT</h1>
