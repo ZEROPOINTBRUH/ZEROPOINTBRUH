@@ -1,4 +1,19 @@
 <!-- Entitled User -->
+<h3 aligh="left">ZEROPOINT</h3>
+<h4 align="left">Your local Database Analyst specializing in</h4>
+<div align="left">
+    <a href="https://www.mysql.com"><img
+            src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://redis.io"><img
+            src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
+    <a href="https://mongodb.com"><img
+            src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+</div>
+
+<!-- About me -->
+<h3 align="left">About me</h2>
+
+<!-- Entitled User -->
 <h1 align="center">ZEROPOINT</h1>
 <h2 align="center">Your local Database Analyst Specializing in</h2>
 <div align="center">
