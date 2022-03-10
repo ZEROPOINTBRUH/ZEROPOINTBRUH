@@ -15,7 +15,6 @@
 <div align="left">
 <p align="left">I'm a self-taught Database analyst, Dedicated server host, and a software engineer. Who enjoys helping others and spending time with them as I've never had friends for eight years of life. 
 <p align="left">I've started founding a Service called <a href="panel.banabyte.com">Banabyte Network.</a> A Dedicated Cloud hosting for Dedicated Game Servers at a cheap and affordable rate. </p>
-<p align="left">My favorite hobbies are playing RTS-styled games, Fps Games, Roleplay Games(DarkRp), Sandbox Styled Games, and 2D-based io games.</p>
 <p align="left">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
 </div>
 
