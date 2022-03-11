@@ -18,7 +18,7 @@
 <p align="center">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
 </div>
 
-<div align="left">
+<div align="center">
     <h2> Language Stacks </h2>
     <!-- Fullstack -->
     <a href="https://html.spec.whatwg.org/multipage/"><img
