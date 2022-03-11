@@ -12,10 +12,10 @@
 
 <!-- About me -->
 <h2 align="center">About me</h2>
-<div align="right">
-<p align="right">I'm a self-taught Database analyst, Dedicated server host, and a software engineer. Who enjoys helping others and spending time with them as I've never had friends for eight years of life. 
-<p align="right">I've started founding a Service called <a href="panel.banabyte.com">Banabyte Network.</a> A Dedicated Cloud hosting for Dedicated Game Servers at a cheap and affordable rate. </p>
-<p align="right">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
+<div align="center">
+<p align="center">I'm a self-taught Database analyst, Dedicated server host, and a software engineer. Who enjoys helping others and spending time with them as I've never had friends for eight years of life. 
+<p align="center">I've started founding a Service called <a href="panel.banabyte.com">Banabyte Network.</a> A Dedicated Cloud hosting for Dedicated Game Servers at a cheap and affordable rate. </p>
+<p align="center">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
 </div>
 
 <div align="left">
