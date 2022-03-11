@@ -1,7 +1,7 @@
 <!-- Entitled User -->
-<h2 align="center">ZEROPOINT</h2>
-<h4 align="center">Your local Database Analyst specializing in</h4>
-<div align="center">
+<h2 align="left">ZEROPOINT</h2>
+<h4 align="left">Your local Database Analyst specializing in</h4>
+<div align="left">
     <a href="https://www.mysql.com"><img
             src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://redis.io"><img
@@ -11,14 +11,14 @@
 </div>
 
 <!-- About me -->
-<h2 align="center">About me</h2>
-<div align="center">
-<p align="center">I'm a self-taught Database analyst, Dedicated server host, and a software engineer. Who enjoys helping others and spending time with them as I've never had friends for eight years of life. 
-<p align="center">I've started founding a Service called <a href="panel.banabyte.com">Banabyte Network.</a> A Dedicated Cloud hosting for Dedicated Game Servers at a cheap and affordable rate. </p>
-<p align="center">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
+<h2 align="left">About me</h2>
+<div align="left">
+<p align="left">I'm a self-taught Database analyst, Dedicated server host, and a software engineer. Who enjoys helping others and spending time with them as I've never had friends for eight years of life. 
+<p align="left">I've started founding a Service called <a href="panel.banabyte.com">Banabyte Network.</a> A Dedicated Cloud hosting for Dedicated Game Servers at a cheap and affordable rate. </p>
+<p align="left">If you ever want to get ahold of me. Don't hesitate. My DMS is always open to everyone. My discord tag is <a href="https://discord.banabyte.com">@zeropoint#9798</a></p>
 </div>
 
-<div align="center">
+<div align="left">
     <h2> Language Stacks </h2>
     <!-- Fullstack -->
     <a href="https://html.spec.whatwg.org/multipage/"><img
@@ -38,8 +38,8 @@
 </div>
 
 <!-- Contacts -->
-<h2 align="center">My Contacts</h2>
-<div align="center">
+<h2 align="left">My Contacts</h2>
+<div align="left">
 <a href="https://discord.banabyte.com"><img src="https://camo.githubusercontent.com/19d3f5efe033ec453966ef682d40115345835d975a3b465ec80262b37121e385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d2532333732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"></a>
 <a href="mailto:zeropoint@banabyte.com"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
