@@ -44,6 +44,11 @@
 <a href="mailto:zeropoint@banabyte.com"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<h2 aligh="left">Pipeline Status</h2>
+<div align="left">
+    [![buddy pipeline](https://app.buddy.works/phixmeplease/gmod-americanrp/pipelines/pipeline/373225/badge.svg?token=5e88a0989e53ad70deb78825d5df439b3fe78254d11b0a2b8c7feee03ee6ba07 "buddy pipeline")](https://app.buddy.works/phixmeplease/gmod-americanrp/pipelines/pipeline/373225)
+</div>    
+
 ## Stats
 ![GitStatistics](https://github-readme-stats.vercel.app/api?username=ZEROPOINTBRUH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
