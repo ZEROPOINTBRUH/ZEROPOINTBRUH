@@ -43,11 +43,6 @@
 <a href="https://discord.banabyte.com"><img src="https://camo.githubusercontent.com/19d3f5efe033ec453966ef682d40115345835d975a3b465ec80262b37121e385/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d2532333732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"></a>
 <a href="mailto:zeropoint@banabyte.com"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<h2 aligh="left">Pipeline Status</h2>
-<div align="left">
-
-[![buddy pipeline](https://app.buddy.works/phixmeplease/gmod-americanrp/pipelines/pipeline/373225/badge.svg?token=5e88a0989e53ad70deb78825d5df439b3fe78254d11b0a2b8c7feee03ee6ba07 "buddy pipeline")](https://app.buddy.works/phixmeplease/gmod-americanrp/pipelines/pipeline/373225)
     
 </div>    
 
