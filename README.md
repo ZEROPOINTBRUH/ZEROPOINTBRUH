@@ -1,6 +1,4 @@
 <!-- Note for user -->
-<h2 align="center">Notice</h2>
-<h4 align="center">You can now access my <a href=https://207.225.26.215/>ip address</a>, Yay.</h4>
 
 <!-- Entitled User -->
 <h2 align="left">ZEROPOINT</h2>
