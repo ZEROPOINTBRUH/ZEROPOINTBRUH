@@ -14,6 +14,6 @@
 # What do you code
 ![](https://img.devrant.com/devrant/rant/r_1016569_Wo4GD.gif)
 ![](https://d33wubrfki0l68.cloudfront.net/c34021fb01275afaf906f708e3ff2e91f6857e39/6c9aa/uploads/mysql-fast.gif)
-![](https://c.tenor.com/wpyYAMBwcAEAAAAC/lua-jackbox.gif)
+![](https://c.tenor.com/HGVL48TAyXQAAAAd/he-was-forced-to-use-lua-lua.gif)
 
 
