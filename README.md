@@ -10,3 +10,6 @@
 
 # Why is this your profile
 - Because my profile is whatever i want it to be.
+
+# What do you code
+![](https://img.devrant.com/devrant/rant/r_1016569_Wo4GD.gif)
