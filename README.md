@@ -1,16 +1,12 @@
-<!--Hello World :smile:-->
-:wave: Hello internet and welcome back to the wayne show.
-Where wayne Presents himself and, uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
-So lets begin with a "Whatsazeropoint?"
+<!-- Want to listen to music but dont have time to pick the tracks? Aurora Radio may be the right stop for you http://astrea.banabyte.com:4000/live -->
 
-Wow guys, i never really met him in person but if i'd ever saw him, I'd give him a high-five.
-*ehem* right
-# Zeropoint
-Hes this guy that you would meet, i hate strangers. uhhh what movie is this.
-*oh right*, Zeropoint is this person who just enjoys playing games as much as you do.
-I don't understand why you would talk to him he seems like a ner- well no
+# Welcome Everyone
+- If you come by looking for people from space, the only place i've been in space is on earth.
 
-What?
-Okay.
+# What do you do?
+- I watch Breaking bad, Better Call Saul, Family Guy.
 
-Since I'm being told i'm being kicked from the studio, let me tell you what really grinds my gears.
+![](https://media3.giphy.com/media/Bs0GXj3ew6xxK/200.gif) ![](https://thumbs.gfycat.com/GrippingSkeletalIberiannase-max-1mb.gif) ![](https://i.giphy.com/media/K0dM34TGaMkcE/giphy.webp)
+
+# Why is this your profile
+- Because my profile is whatever i want it to be.
