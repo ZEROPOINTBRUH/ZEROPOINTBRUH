@@ -1,18 +1,17 @@
-<!-- Want to listen to music but dont have time to pick the tracks? Aurora Radio may be the right stop for you http://astrea.banabyte.com:4000/live -->
+<!-- You know what they say, All toasters, Toast Toast. -->
 
-# Welcome Everyone
-- If you come by looking for people from space, the only place i've been in space is on earth.
+# Welcome Friend
+If your here because your looking for noone other then a friend to hangout with. look no further.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
 
-# What do you do?
-- I watch Breaking bad, Better Call Saul, Family Guy.
+# Ok so lets begin
 
-![](https://media3.giphy.com/media/Bs0GXj3ew6xxK/200.gif) ![](https://thumbs.gfycat.com/GrippingSkeletalIberiannase-max-1mb.gif)
+### Whats your discord
+zeropoint#9798
 
-![](https://i.giphy.com/media/K0dM34TGaMkcE/giphy.webp)
+### Whats your email
+wegj1@hotmail.com
 
-# Why is this your profile
-- Because my profile is whatever i want it to be.
-
-# What do you code
-![](https://img.devrant.com/devrant/rant/r_1016569_Wo4GD.gif)
-![](https://d33wubrfki0l68.cloudfront.net/c34021fb01275afaf906f708e3ff2e91f6857e39/6c9aa/uploads/mysql-fast.gif)
+### Whats your wifi password
+what is wifi
+![](https://static.dezeen.com/uploads/2017/02/nokia_3310_blue_mobile-phone-technology-news_hero-1.jpg)
