@@ -1,5 +1,2 @@
 <!-- I'm a toaster from the moon -->
-
-# I'm a toaster from the moon
-
-<!-- Among us -->
+![](https://cdn.akamai.steamstatic.com/steam/apps/1938090/header.jpg)
