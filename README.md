@@ -1,22 +1,16 @@
-<!-- I'm a toaster from the moon -->
-# Okay
-So You're looking at this page like, can this guy code?
+<!-- Game Has initiated -->
 
-# Well
-The Awnser is he is a nutcase when it comes to that
+# Welcome to Zeropoints Markdown Game.
+Welcome to My First Game Created in Markdown
+I am your host zeropoint, or some may call me papa Wayne
+Anyhow, You're here on my GitHub page and didn't expect to play a game right?
 
-# So
-Instead, i just use github like google drive storage.
-![Here is an 8k Image of a computer with a face and more dumb personalities with it](/photos/8kimage.png)
+Well, That's where you're Wrong.
+As you can see, I've setup this lovely game you guys can play, and it only takes seconds to play.
 
-## What is this?
-Exactly, i was wondering the same thing, Have you ever heard of kubernetes? I've heard Ticket master ran off it... Its doing quite well if you've asked me
+So, Are you Down for the Challenge? 
 
-### Okay Whats going on here?
-Something wrong here? [Dont click this](https://discord.gg/banabyte)
+[Yes, I am down for the challege](/game/section1/hello.md)
+[What? No, I Hate Games](https://youtu.be/ITY-fJJnPNQ)
 
-### ...
-Want to see a something cool? [Yes](https://sftp.banabyte.com) [No](https://youtu.be/hWvM6de6mG8)
-
-#### Look down here to see masterpieces of mine
-Whatever you do, dont touch 7zip. Its mine.
+<!-- Game Has Loaded -->
