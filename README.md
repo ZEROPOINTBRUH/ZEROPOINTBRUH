@@ -11,6 +11,7 @@ As you can see, I've setup this lovely game you guys can play, and it only takes
 So, Are you Down for the Challenge? 
 
 [Yes, I am down for the challege](/game/section1/hello.md)
+
 [What? No, I Hate Games](https://youtu.be/ITY-fJJnPNQ)
 
 <!-- Game Has Loaded -->
