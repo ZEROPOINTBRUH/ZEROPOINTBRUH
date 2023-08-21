@@ -1,7 +1,4 @@
-<img align="left" height="205" src="https://i.gifer.com/origin/b2/b274462c8a04361bfa2472560625dba6_w200.gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=HEY+I'M+OVER+HERE.+;I'm+an+Interactive+Developer.+;Specializing+in+.NET+Technologies)](https://git.io/typing-svg)
 
-```md
-How did we end up here?
 
-```
 
