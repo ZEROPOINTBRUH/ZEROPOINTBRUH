@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/banabyte-757079346719621150) 
 
@@ -18,5 +17,3 @@
   ## 💰 Tips are accepted here
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wegj1) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
