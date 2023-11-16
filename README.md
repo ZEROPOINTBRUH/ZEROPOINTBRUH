@@ -6,6 +6,7 @@ Banabyte: https://github.com/Banabyte<br>
 Banablock: https://github.com/Banablock<br>
 Warzon.io: https://github.com/Warzon-io<br>
 Project Donetsk: https://github.com/ProjectDonetsk<br>
+AI-Peter: https://discord.gg/aipeter<br>
 
 ## What do i do on my freetime? 
 Games I play on Steam: https://steamcommunity.com/id/zeropointbruh/games/?tab=all<br> 
