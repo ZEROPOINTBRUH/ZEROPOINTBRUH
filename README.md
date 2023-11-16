@@ -8,7 +8,7 @@ Warzon.io: https://github.com/Warzon-io<br>
 Project Donetsk: https://github.com/ProjectDonetsk<br>
 AI-Peter: https://discord.gg/aipeter<br>
 
-## What do i do on my freetime? 
+## What do I do on my freetime? 
 Games I play on Steam: https://steamcommunity.com/id/zeropointbruh/games/?tab=all<br> 
 Hearts of Iron 4: https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/<br>
 Hearts of Iron 4: https://store.steampowered.com/sub/808474/<br>
