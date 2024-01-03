@@ -19,3 +19,4 @@ Hearts of Iron 4: https://youtu.be/1a81UxSi534
 ## Oh yeah one more thing
 I am growing grass in my github commits,<br>
 Don't plan on mowing it anytime soon
+![](/random/ee.gif)
