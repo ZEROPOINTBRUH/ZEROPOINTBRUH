@@ -14,7 +14,7 @@ Hearts of Iron 4: https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/<b
 Hearts of Iron 4: https://store.steampowered.com/sub/808474/<br>
 Hearts of Iron 4: https://store.steampowered.com/bundle/22460/Hearts_of_Iron_IV_Ultimate_Bundle/<br>
 Hearts of Iron 4: https://store.steampowered.com/dlc/394360/Hearts_of_Iron_IV/#browse<br>
-Hearts of Iron 4: https://youtu.be/1a81UxSi534
+Hearts of Iron 4: [https://youtu.be/1a81UxSi534](https://youtu.be/Ki3itrHoWUM)
 
 ## Oh yeah one more thing
 I am growing grass in my github commits. Don't plan on mowing it anytime soon..<br>
