@@ -16,8 +16,7 @@ Email: wegj1@hotmail.com
   <a href="https://github.com/ZEROPOINTBRUH">GitHub</a> • 
   <a href="https://banabyte.com">Website</a> • 
   <a href="https://live.banabyte.com">Radio</a> • 
-  <a href="https://forum.banabyte.com">Forum</a> • 
-  <a href="https://discord.gg/banabyte">Discord</a>
+  <a href="https://discord.banabyte.com">Discord</a>
 </p>
 
 ## Business Information
