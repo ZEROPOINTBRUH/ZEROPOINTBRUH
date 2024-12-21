@@ -79,4 +79,4 @@ Send me a personal email at [wegj1@hotmail.com](mailto:wegj1@hotmail.com)
 <!-- Banabyte Hosting: panel.banabyte.com -->
 
 ## Fun Fact
-Shorks are cool! 🦈
+Bandit is awesome! 
