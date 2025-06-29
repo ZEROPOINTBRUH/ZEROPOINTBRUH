@@ -41,4 +41,4 @@ Shoot me a message at [wegj1@hotmail.com](mailto:wegj1@hotmail.com)
 
 ## 🎙️ Fun Fact
 
-**Bandit is awesome.** Enough said.
+**Shorks are awesome.** Enough said.
