@@ -11,5 +11,4 @@
 - 7: Click Erase entire disk
 - 8: Install
 - 9: Congratulations you will only play factorio and will never play any other game
-
 ![](random/factoryworker.gif)
